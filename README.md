@@ -1,2 +1,3 @@
 # movie-recommendation
-Attempt at creating a movie recommendation system tailored to a user's taste
+With this project, we are trying to build a user-specific movie recommendation system using our two tables "movies" and "ratings".
+
